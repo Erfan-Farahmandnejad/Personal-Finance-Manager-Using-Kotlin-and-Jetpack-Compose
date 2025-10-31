@@ -238,6 +238,3 @@ The application includes the following screens:
 * [Shabnam-Khaqanpoor](https://github.com/Shabnam-Khaqanpoor)
 * [Erfan-Farahmandnejad](https://github.com/Erfan-Farahmandnejad)
 
-## License
-
-This project is open-source and available under the MIT License.
