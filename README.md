@@ -72,7 +72,7 @@ app/
 ### Installation
 1. Clone this repository
    ```bash
-   git clone https://github.com/Shabnam-Khaqanpoor/Personal-Finance-Manager-Using-Kotlin-and-Jetpack-Compose.git
+   git clone https://github.com/Erfan-Farahmandnejad/Personal-Finance-Manager-Using-Kotlin-and-Jetpack-Compose.git
    ```
 2. Open the project in Android Studio
 3. Sync Gradle dependencies
@@ -235,8 +235,8 @@ The application includes the following screens:
 
 ## Contributors
 
-* [Shabnam-Khaqanpoor](https://github.com/Shabnam-Khaqanpoor)
 * [Erfan-Farahmandnejad](https://github.com/Erfan-Farahmandnejad)
+* [Shabnam-Khaqanpoor](https://github.com/Shabnam-Khaqanpoor)
 
 ## License
 
