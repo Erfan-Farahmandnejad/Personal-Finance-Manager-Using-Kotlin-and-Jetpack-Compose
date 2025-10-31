@@ -193,6 +193,32 @@ The application includes the following screens:
 - **Settings**: Customize app preferences including calendar type, currency, and financial month start date
 - **Budgets**: Create and monitor spending limits with custom periods and recurring options
 
+<img src="https://github.com/user-attachments/assets/7fc79436-39b3-4729-b22b-7ce4c2217d76" width="300">
+<img src="https://github.com/user-attachments/assets/96814c5b-672d-4abb-958e-f5dc0a0aea56" width="300">
+<img src="https://github.com/user-attachments/assets/3ac9152a-9d58-4fcd-b709-e51b46354083" width="300">
+<img src="https://github.com/user-attachments/assets/530c5c11-8a12-4522-93b9-15d1e35a8b9c" width="300">
+<img src="https://github.com/user-attachments/assets/65ba700d-78e5-491f-9b70-e60ba4b7602b" width="300">
+<img src="https://github.com/user-attachments/assets/e1d8b827-f42c-47ce-b758-20be8e7acf0b" width="300">
+<img src="https://github.com/user-attachments/assets/358e597e-5347-4d00-8562-65c0551fc8a1" width="300">
+<img src="https://github.com/user-attachments/assets/23043fcc-d57b-4c75-8e47-d8619067d253" width="300">
+<img src="https://github.com/user-attachments/assets/1c068561-7707-409b-8626-94b8f20ab6b3" width="300">
+<img src="https://github.com/user-attachments/assets/94682744-2eaf-47e4-9829-4b47c1ca81d1" width="300">
+<img src="https://github.com/user-attachments/assets/ed1fbccb-4902-4f1d-bf0a-a692e1275fe9" width="300">
+<img src="https://github.com/user-attachments/assets/8a41153a-1b74-44a2-b2e7-41c350660ec2" width="300">
+<img src="https://github.com/user-attachments/assets/43720f2c-0490-40cf-89ef-d192253812ee" width="300">
+<img src="https://github.com/user-attachments/assets/20373154-b663-439b-af6c-e8bb9fb53c27" width="300">
+<img src="https://github.com/user-attachments/assets/39eae99e-5e52-48e5-aa54-b4ff03745090" width="300">
+<img src="https://github.com/user-attachments/assets/5968b5bd-f4a5-4dfe-8535-091264eeeb56" width="300">
+<img src="https://github.com/user-attachments/assets/9087e42e-6c80-499f-9917-91985eebb84d" width="300">
+<img src="https://github.com/user-attachments/assets/25dc91f3-49de-4582-b28a-47ee84e19927" width="300">
+<img src="https://github.com/user-attachments/assets/03c55518-a627-47bc-a240-aee104160a7e" width="300">
+<img src="https://github.com/user-attachments/assets/95586df7-c247-442f-802e-7d6549d7acd2" width="300">
+<img src="https://github.com/user-attachments/assets/218151a1-b6e4-4968-a812-1e544476bf9d" width="300">
+<img src="https://github.com/user-attachments/assets/a480d0d9-8b0a-40ae-883c-6b5b806b228c" width="300">
+
+
+
+
 ## Key Features Implementation
 
 ### Database Schema
